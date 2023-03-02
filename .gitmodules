@@ -1,0 +1,4 @@
+[submodule "camera_thing/lib/esp32-camera"]
+	path = camera_thing/lib/esp32-camera
+	url = https://github.com/espressif/esp32-camera.git
+	branch = master
